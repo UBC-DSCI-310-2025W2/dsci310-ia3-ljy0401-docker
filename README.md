@@ -1,1 +1,1 @@
-# dsci310-ia3-ljy0401-docker
+# DSCI 310 Individual Assignment 3 - Jingyuan Liu
